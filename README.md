@@ -37,9 +37,6 @@ the View and model components. In addition, there are several helper/service
 classes that aid the controllers in business-logic.
 
 
-# YouTube Link to Demo:
-https://www.youtube.com/watch?v=lZ4ezDjAOmQ
-
 # Screenshots:
 ![Login window:](src/main/resources/screenshots/Login_2-12-21.jpg)
 <br/><br/>
